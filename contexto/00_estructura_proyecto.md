@@ -9,5 +9,5 @@ Este documento es el mapa oficial del workspace. Explica la estructura de carpet
 │   ├── 00_ESTRUCTURA_PROYECTO.md  (Este archivo)
 │   ├── 01_BRIEF_CLIENTE.md
 │   └── ...                # Otros documentos de contexto generados
-├── /checkpoints/          # Historial de progreso técnico diario
+├── /checkpoints/          # Contiene la plantilla (plantilla_control.md) y los checkpoints diarios. Formato: CHK_YYYY-MM-DD_HHMM.md
 └── proyecto.kanban        # Tablero de tareas del proyecto
